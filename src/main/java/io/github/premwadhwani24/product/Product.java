@@ -1,4 +1,4 @@
-package io.github.premwadhwani24.shopcart;
+package io.github.premwadhwani24.product;
 
 import java.util.Objects;
 
